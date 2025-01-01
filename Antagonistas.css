@@ -1,0 +1,115 @@
+body{
+  text-align: center;
+  background: linear-gradient(to bottom, darkred, black); 
+  height: 100vh;
+  background-attachment: fixed;
+  display: block;
+}
+nav{
+  word-spacing: 40px;
+  padding-top: 80px;
+}
+.herois, .s, .viloes {
+   width: 90px;
+   height: 90px;
+   object-fit: cover;
+   position: relative;
+   top: -60px;
+   padding-top: 0;
+   border-radius: 50%;
+    box-shadow: 0 0 20px 5px rgba(192, 192, 192, 1.5);
+}
+.w{
+  padding-top: 20px;
+}
+h2{
+  color: white;
+  top: 20px;
+  text-align: left;
+  margin-left: 10px;
+  font-family: "Rye", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+p{
+  text-align: left;
+  color: white;
+  margin-left: 10px;
+  top: 20px;
+}
+.sukuna{
+width: 150px;
+  height: 150px;
+  object-fit: cover;
+  float: right;
+  margin-left: 80px;
+  margin-right: 5px;
+  position: relative;
+  top:-230px; 
+  border-radius: 50%;
+   box-shadow: 0 0 20px 5px rgba(192, 192, 192, 1.5);
+}
+.ryomen{
+  background: linear-gradient(to bottom, darkred, black); 
+   border-radius: 15%;
+   padding: 10px;
+}
+.linha{
+  text-align: center;
+  color: black;
+}
+
+.f{
+   width: 150px;
+  height: 150px;
+  object-fit: cover;
+  float: right;
+  margin-left: 80px;
+  margin-right: 5px;
+  position: relative;
+  top:-230px; 
+  border-radius: 50%;
+   box-shadow: 0 0 20px 5px rgba(192, 192, 192, 1.5);
+}
+.toji{
+  background: linear-gradient(to bottom, darkred, black);
+   border-radius: 15%;
+   padding: 10px;
+   margin-top: 70px;
+}
+.suguro{
+   width: 150px;
+  height: 150px;
+  object-fit: cover;
+  float: right;
+  margin-left: 80px;
+  margin-right: 10px;
+  position: relative;
+  top:-230px; 
+  border-radius: 50%;
+   box-shadow: 0 0 20px 5px rgba(192, 192, 192, 1.5);
+}
+.kenjaku{
+   background: linear-gradient(to bottom, darkred, black);
+   border-radius: 15%;
+   padding: 10px;
+   margin-top: 70px;
+}
+.mahito{
+   width: 150px;
+  height: 150px;
+  object-fit: cover;
+  float: right;
+  margin-left: 80px;
+  margin-right: 10px;
+  position: relative;
+  top:-230px; 
+  border-radius: 50%;
+   box-shadow: 0 0 20px 5px rgba(192, 192, 192, 1.5);
+}
+.m{
+  background: linear-gradient(to bottom, darkred, black);
+   border-radius: 15%;
+   padding: 10px;
+   margin-top: 80px;
+}
